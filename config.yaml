@@ -36,7 +36,7 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: https://github.com/twhite96
+  # github: https://github.com/twhite96
   # twitter: your-twitter-link
   # stackoverflow: your-stackoverflow-link
   # facebook: your-facebook-link
@@ -46,7 +46,7 @@ params:
   # Site Author
   author: tiffany
   # Author biography
-  bio: "My name is Tiffany and this is White Noise, <br/> an exploration of tech, journalism, and internet culture."
+  bio: "White Noise is an exploration of <br/> tech, journalism, and internet culture."
   # Site Description, used in HTML meat
   description: Hi. My name is Tiffany and this is White Noise, an exploration of tech, journalism, and internet culture.
 
@@ -69,7 +69,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: ""
+  copyright: "&copy; White Noise 2024"
 
   # Extra links in navigation
   links:
