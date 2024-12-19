@@ -244,7 +244,7 @@ nav.navigation a.button {
   margin-top: 100px;
   margin-bottom: 100px;
   text-align: center;
-  color: #bbbbbb;
+  color: #111827;
   font-size: 14px;
 }
 
@@ -271,6 +271,7 @@ nav.navigation a.button {
 
 #social a {
   margin: 0 4px;
+  color: #111827;
 }
 
 /* main content */
@@ -303,9 +304,9 @@ nav.navigation a.button {
 }
 
 .profile h2 {
-  font-size: 20px;
-  font-weight: 300;
-  color: #757575;
+  font-size: 15px;
+  font-weight: 400;
+  color: #111827;
   margin-top: 0;
 }
 
@@ -344,7 +345,7 @@ nav.navigation a.button {
   text-align: right;
   position: relative;
   top: 1px;
-  color: #bbb;
+  color: #3f3f46;
 }
 
 #list-page .summary {
