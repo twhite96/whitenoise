@@ -1,6 +1,6 @@
 ---
 title: "Media Brain Rot and the VCs Who've Cultivated It"
-publishedAt: "2024-08-20"
+date: "2024-08-20"
 summary: "Ed Zitron's scathing look at how tech bros and venture capitalists changed the media landscape."
 ---
 
