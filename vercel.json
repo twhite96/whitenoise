@@ -4,6 +4,6 @@
       "ZOLA_VERSION": "0.19.2"
     }
   },
-  "trailingSlash": true,
+  "trailingSlash": false,
   "cleanUrls": true
 }

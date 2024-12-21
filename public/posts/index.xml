@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on White Noise</title>
-    <link>https://example.com/posts/</link>
+    <link>https://whitenoise.tiff.ws/posts/</link>
     <description>Recent content in Posts on White Noise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://whitenoise.tiff.ws/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Media Brain Rot and the VCs Who&#39;ve Cultivated It</title>
-      <link>https://example.com/posts/media-brain-rot-and-the-vcs-whove-cultivated-it/</link>
+      <link>https://whitenoise.tiff.ws/posts/media-brain-rot-and-the-vcs-whove-cultivated-it/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/media-brain-rot-and-the-vcs-whove-cultivated-it/</guid>
+      <guid>https://whitenoise.tiff.ws/posts/media-brain-rot-and-the-vcs-whove-cultivated-it/</guid>
       <description>Ed Zitron&amp;rsquo;s scathing look at how tech bros and venture capitalists changed the media landscape.</description>
     </item>
     
