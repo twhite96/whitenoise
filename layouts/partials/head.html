@@ -3,6 +3,9 @@
 <meta name="viewport" content="width=device-width,minimum-scale=1">
 <meta name="description"
   content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+
+<script data-goatcounter="https://whiten.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
 {{ hugo.Generator }}
 {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
 {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
@@ -10,7 +13,6 @@
 {{ else }}
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 {{ end }}
-<script data-goatcounter="https://whiten.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 <link rel="stylesheet" href="{{ " /css/style.css" | relURL }}">
 
